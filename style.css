@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+#contenedor {
+width: 800px;
+height: auto;
+margin:auto;
+}
+
+h1 {
+text-align: center;
+font-family: "Limelight", sans-serif;
+text-shadow: 5px 3px 7px rgba(255,255,255,0.6);
+font-size: 50px;
+
+}
+
+h2 {
+text-align: center;
+font-family: "Limelight", sans-serif;
+
+}
+
+p {
+text-align: center;
+font-family: "Montserrat", sans-serif;
+
+}
+ 
+#grande {
+width: 800px;
+height: auto;
+border: 5px solid #000000;
+border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+}
+
+#petit {
+width: 300px;
+height: auto;
+border: 5px solid #000000;
+border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+}
+
+body{
+background: rgba(0,208,255,0.59);
+background: linear-gradient(343deg,rgba(0,208,255,0.59) 0%, rgba(255,0,250,0.51) 80%);
+background: -webkit-linear-gradient(343deg,rgba(0,208,255,0.59) 0%, rgba(255,0,250,0.51) 80%);
+background: -moz-linear-gradient(343deg,rgba(0,208,255,0.59) 0%, rgba(255,0,250,0.51) 80%);
+}
+
+#pie {
+background-color: #adf7ff;
+text-align: center;
+height: 40px;
+font-family: "Montserrat", sans-serif;
+font-size: 25px;
+
+}
